@@ -3,4 +3,4 @@
 
 - Utilizando o conhecimento adquirido no curso da Digital Innovation One
 - Durante o bootcamp da empresa MRV / Localiza
-- Prof. Gabriel Faraday
+- Agradecimentos ao Prof. Gabriel Faraday
